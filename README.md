@@ -113,18 +113,11 @@ This is my repo full of code problems that I have completed prior to or during a
 - <a href="practice10/README.md" target="_blank">Permutations</a>
 - <a href="practice16/README.md" target="_blank">Factor of Sequence</a>
 
+
+
 ### Level 6
-- none available
-
-### Level 7
-- none available
-
-### Level 8
-- none available
-
-### Level 9
 - <a href="practice18/README.md" target="_blank">Calculate Multi Average</a>
 
-### Level 10
+### Level 7
 - <a href="practice27/README.md" target="_blank">Recursive Numeric Spirals</a>
 
