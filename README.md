@@ -54,9 +54,9 @@ This is my repo full of code problems that I have completed prior to or during a
 * [Shortest Fizz Buzz](https://github.com/blakeembrey/code-problems/tree/master/problems/shortest-fizz-buzz)
 
 ## Problems & solutions 
-* [leetcode](https://leetcode.com/problemset/algorithms/) problems ==>  [solutions](https://github.com/leetcoders/LeetCode) .
+* [leetcode](https://leetcode.com/problemset/algorithms/) problems 
+ * [solutions](https://github.com/leetcoders/LeetCode) .
 * [projecteuler](https://projecteuler.net/archives) problems ==>  
   * [solutions_mathimatica](https://github.com/nayuki/Project-Euler-solutions/tree/master/mathematica).
   * [solutions_python](https://github.com/nayuki/Project-Euler-solutions/tree/master/python)
-  * 
-  *[solutions_Java](https://github.com/nayuki/Project-Euler-solutions/tree/master/java)
+  * [solutions_Java](https://github.com/nayuki/Project-Euler-solutions/tree/master/java)
